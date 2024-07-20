@@ -1,1 +1,1 @@
-Live Preview -----> https://diwanshuverma.github.io/Netflix-Website-clone/
+Live Preview:- https://netflix-ui.netlify.app/
