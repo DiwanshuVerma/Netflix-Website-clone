@@ -1,1 +1,1 @@
-Live Preview:- https://netflix-ui.netlify.app/
+Live Preview:- (https://netflex-uuai.netlify.app/) 
